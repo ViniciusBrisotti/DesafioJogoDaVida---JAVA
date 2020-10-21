@@ -1,4 +1,4 @@
-# JogoDaVida---JAVA
+# DesafioJogoDaVida---JAVA
 
 ## Informações gerais sobre o projeto:
 
