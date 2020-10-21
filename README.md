@@ -1,4 +1,3 @@
-# DesafioJogoDaVida---JAVA
 
 ## Informações gerais sobre o projeto:
 
