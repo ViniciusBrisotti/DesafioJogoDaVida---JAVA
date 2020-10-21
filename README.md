@@ -11,11 +11,17 @@ Projeto baseado no Jogo da Vida de John Conways, cujo objetivo é simular o comp
 Os seguintes botões realizam as ações listadas:
 
 Inserir:            Insere uma célula no local do tabuleiro escolhido pelo usuário.
+
 Apagar:             Apaga a célula selecionada pelo usuário.
+
 Resetar:            O tabuleiro retorna ao estado inicial das células, ou seja, exibindo-as como foram inseridas pelo usuário.
+
 Simulação de Etapa: Mostra ao usuário o resultado obtido quanto a disposição das células logo após a inserção da célula em determinada localização do tabuleiro.
-Iniciar:            Inicia a aplicação do algorítimo conforme regras do jogo. De acordo com a disposição das células escolhida pelo usuário novas disposições de células serão                         exibidas.
+
+Iniciar:            Inicia a aplicação do algorítimo conforme regras do jogo. De acordo com a disposição das células escolhida pelo usuário novas disposições de células serão                       exibidas.
+
 Parar:              Para a sequência de mutação da disposição das células no tabuleiro no exato momento em que é selecionada afim de que o usuário possa analisar a imagem das                         posições das células obtidas naquela iteração.
+
 
 ## Regras: 
 
